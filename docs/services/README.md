@@ -29,6 +29,13 @@ docs/services/<service>/
 
 내부 파일·폴더 구조가 공개되지 않은 상용 앱에 대해서는 **절대 추정으로 파일 트리를 만들지 않습니다.** 대신 공개 웹 경로, 화면 IA, 데이터 모델 추론, 공개 기술 단서만 기록합니다.
 
+## 빠른 비교
+
+- [페이지·UI·UX·버튼 비교](./_comparisons/page-ui-button-matrix.md)
+- [기술·데이터 아키텍처 비교](./_comparisons/technical-architecture-matrix.md)
+- [복잡한 문제와 해결 방식 비교](./_comparisons/problem-solution-matrix.md)
+- [공개 저장소·파일구조 확인](./_comparisons/repository-structure-matrix.md)
+
 ## 앱
 
 | 서비스 | 핵심 분석 포인트 |
