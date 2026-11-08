@@ -9,6 +9,8 @@
 
 ## 바로 보기
 
+- **서비스별 정본 분석:** [docs/services/README.md](docs/services/README.md)
+
 - **직접 사이트·저장소 검증 기록:** [docs/direct-inspection/README.md](docs/direct-inspection/README.md)
 - **직접 확인한 Source Map:** [docs/direct-inspection/source-map.md](docs/direct-inspection/source-map.md)
 - **Craft Anything 기반 분석 방법:** [docs/direct-inspection/methodology-craft-anything.md](docs/direct-inspection/methodology-craft-anything.md)
