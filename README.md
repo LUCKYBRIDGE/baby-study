@@ -10,6 +10,8 @@
 ## 바로 보기
 
 - **직접 사이트·저장소 검증 기록:** [docs/direct-inspection/README.md](docs/direct-inspection/README.md)
+- **직접 확인한 Source Map:** [docs/direct-inspection/source-map.md](docs/direct-inspection/source-map.md)
+- **Craft Anything 기반 분석 방법:** [docs/direct-inspection/methodology-craft-anything.md](docs/direct-inspection/methodology-craft-anything.md)
 - **직접 관찰 후 핵심 비교:** [docs/direct-inspection/cross-findings.md](docs/direct-inspection/cross-findings.md)
 - **앱·웹 구조 심층분석 인덱스:** [docs/deep-dive/README.md](docs/deep-dive/README.md)
 - **서비스 아키텍처 비교 지도:** [docs/deep-dive/architecture-comparison.md](docs/deep-dive/architecture-comparison.md)
