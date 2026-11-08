@@ -15,6 +15,11 @@
 
 B1/B2는 공식 앱 내부구조의 공식 문서가 아닙니다. 특히 Huckleberry 관련 공개 API 저장소는 **비공식 reverse-engineered client**이므로, 내부 구현을 확정적으로 단정하지 않고 "공개 코드상 관찰"로만 사용합니다.
 
+## 분석 방법
+
+- [Craft Anything 기반 직접 분석 방법](methodology-craft-anything.md)
+- [직접 확인한 Source Map](source-map.md)
+
 ## 앱/서비스
 
 - [BabyTime](apps/babytime-site.md)
@@ -26,6 +31,9 @@ B1/B2는 공식 앱 내부구조의 공식 문서가 아닙니다. 특히 Huckle
 - [베이비빌리](apps/babybilly-site.md)
 - [마미톡](apps/mommytalk-site.md)
 - [MOMI](apps/momi-store.md)
+- [Napper](apps/napper-site.md)
+- [BabySparks](apps/babysparks-site.md)
+- [CDC Milestone Tracker](apps/cdc-milestone-site.md)
 
 ## 공공 시스템
 
