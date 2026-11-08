@@ -9,6 +9,8 @@
 
 ## 바로 보기
 
+- **직접 사이트·저장소 검증 기록:** [docs/direct-inspection/README.md](docs/direct-inspection/README.md)
+- **직접 관찰 후 핵심 비교:** [docs/direct-inspection/cross-findings.md](docs/direct-inspection/cross-findings.md)
 - **앱·웹 구조 심층분석 인덱스:** [docs/deep-dive/README.md](docs/deep-dive/README.md)
 - **서비스 아키텍처 비교 지도:** [docs/deep-dive/architecture-comparison.md](docs/deep-dive/architecture-comparison.md)
 - **아기 양육 요구 전체 지도:** [docs/00-framework/parenting-needs-map.md](docs/00-framework/parenting-needs-map.md)
@@ -36,6 +38,7 @@
 - `docs/web/` — 1차 공공·전문 웹서비스 분석
 - `docs/deep-dive/apps/` — 앱별 구조·IA·데이터흐름·루프 심층분석
 - `docs/deep-dive/web/` — 공공 웹/시스템 심층분석
+- `docs/direct-inspection/` — 공식 사이트·FAQ·앱스토어·공개 저장소를 직접 확인한 근거 기록
 - `docs/comparison/` — 기능 비교표와 공통 디자인 패턴
 - `docs/ideas/` — 향후 제품 아이디어와 설계 가설
 
